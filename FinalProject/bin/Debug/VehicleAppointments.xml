@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppointmentList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Appointments>
+    <Appointment>
+      <AppointmentTime>9:00 AM</AppointmentTime>
+      <Vehicle xsi:type="TwoWheelerVehicle">
+        <OwnerName>chintan</OwnerName>
+        <ContactNumber>1234213412</ContactNumber>
+        <VehicleAge>25</VehicleAge>
+        <ServiceOpted>
+          <TwoWheelerVehicleServices>OilChange</TwoWheelerVehicleServices>
+          <TwoWheelerVehicleServices>TyresChange</TwoWheelerVehicleServices>
+        </ServiceOpted>
+      </Vehicle>
+    </Appointment>
+  </Appointments>
+</AppointmentList>
