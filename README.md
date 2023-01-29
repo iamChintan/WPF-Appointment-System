@@ -1,2 +1,2 @@
 # WPF Appointment System
- Appointment System demo WPF application using C# language with standard coding. 
+ Appointment System WPF Application using C# language with standard and clean coding. 
